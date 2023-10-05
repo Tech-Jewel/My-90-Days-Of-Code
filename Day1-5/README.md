@@ -17,5 +17,12 @@ JavaScript has many roles in web development. It can be used for thing like:
 6. Creating web games and animations.
 7. Handling browser events like mouse clicks or key presses.
 
+## "HELLO WORLD!" CODE
+I can write "Hello World!" in three different ways with JavaScript☺️
+`console.log("Hello World!")`
+OR
+`alert("Hello World!")`
+OR
+`document.write("Hello World!)`
 
  

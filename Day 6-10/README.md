@@ -66,16 +66,16 @@ We can do that through two ways: <br/>
  
 
  `const templateLiteral1 = "I'm " + firstName + ", a " + (year - birthYear) + " years old " + job + "!" ` <br/>
-               OR
-`const templateLiteral2 = `I'm ${firstname} and I am a ${job}`; `
+               OR <br/>
+`const templateLiteral2 = `I'm ${firstname} and I am a ${job}`; ` <br/>
 
-- The second method is mostly used in ES6 as it is easier and less stressful. We can also create multiline strings.
+- The second method is mostly used in ES6 as it is easier and less stressful. We can also create multiline strings. <br/>
 
 ## OPERATOR AND ITS PRECEDENCE
-**An operator allows us to transform values or combine multiple values.**
-**There are different types of operators like:** 
-- Mathematical/arithmetic operators ( + , - , * , / , % , ** )
+**An operator allows us to transform values or combine multiple values.** <br/>
+**There are different types of operators like:** <br/>
+- Mathematical/arithmetic operators ( + , - , * , / , % , ** ) <br/>
 - Comparison operators ( > , < , >= , <= )
 - Logical operators
-- Assignment operators (==), etc.
+- Assignment operators (==), etc. <br/>
 

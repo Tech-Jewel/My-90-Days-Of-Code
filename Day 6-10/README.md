@@ -1,10 +1,10 @@
+## Day 6 - 10
+
+## VARIABLES AND THEIR DECLARATION
 Value is the smallest unit of information that we have in JavaScript.
 We can store our values in variables so we can use them over and over again.
 
-We can declare variables with JavaScript using the "**let**" , "**var**"  or "**const**" keywords.
-We use the "let" keyoword to declare values that can be changed later.
-We can reassign or mutate variables(change its values).
-Do NOT use "var" keywords to declare variables for now.
+
 
 We use the "const" keyword to declare values that canhave constant values throughout the code. It cannot be mutated.
 We cannot declare empty const variables.
@@ -20,7 +20,12 @@ Conventions and rules for naming variables.
 - Make sure your variable names are descriptive. e.g 
 - `let myFirstJob = "teacher"` is better and easier to understand than `let job = "teacher";`
 
-Better to use "const"
+## Let, var and const keywords
+
+We can declare variables with JavaScript using the "**let**" , "**var**"  or "**const**" keywords.
+We use the "let" keyoword to declare values that can be changed later.
+We can reassign or mutate variables(change its values).
+Do NOT use "var" keywords to declare variables for now.
 Examples:
 `let name = "Jewel";`
 `var age = 20;`

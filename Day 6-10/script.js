@@ -35,7 +35,7 @@ const ageSarah = now - 2018;
 console.log(ageJonas, ageSarah);
 console.log(ageSarah * 2, ageJonas / 10, 2 ** 3);
 
-
+// MATHEMATICAL/ARITHMETIC OPERATORS
 let x = 10 + 5; //15
 x += 10; // x = x + 10 = 25
 x *= 4; // x= x * 4 = 100

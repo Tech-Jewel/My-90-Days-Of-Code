@@ -59,7 +59,7 @@
 `while(condition){ <br/>
   statements to be executed if condition is true; <br/>
 }` <br/>
-<br/>
+<br/>  
 
 - ### for loop
 The "for" loop is used to execute a block of code multiple times for a specific condition. It has three parts: <br/>

@@ -24,7 +24,7 @@ switch(day) {
     case "Monday": // day === Monday
         console.log("Plan course structure");
         console.log("Go to coding meetup");
-        break;
+        break;  
 
     case "Tuesday" : // day === Tuesday
         console.log("Prepare theory videos");
@@ -58,7 +58,7 @@ let b=16;
     console.log(b);
     b+=2;
  }
- 
+
 
 //  for loop
 for (let b=50; b >= 30; b-=2){

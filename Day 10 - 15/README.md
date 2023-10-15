@@ -12,11 +12,11 @@
  **The "if" statement will execute a block of code when a required condition is satisfied. If accompanied by else block, it will execute another block of code when the condition is not satisfied.** <br/>
 
  - Syntax: <br/>
- `if(condition){ <br/>
+ if(condition){ <br/>
     Statement to be executed if condition is true✅ <br/>
   } else { <br/>
     Statement to be executed if condition is not true ❌ <br/>
-  }` <br/>
+  } <br/>
  <br/>
 
  - ### switch ... case

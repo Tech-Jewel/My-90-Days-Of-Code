@@ -47,18 +47,18 @@
 **The "do...while" loop checks for the condition at the end of the loop. The "do" loop will be executed at least once, even if the condition is false.** <br/>
 
 - Syntax: <br/>
-`do{ <br/>
+do{ <br/>
   statements to be executed; <br/>
-} while (condition);` <br/>
+} while (condition); <br/>
 <br/>
 
 - ### while loop
 **The "while" loop executes a statement or a block of code repeatedly as long as the condition is true. When condition is false, the loop will exit.** <br/>
 
 - Syntax: <br/>
-`while(condition){ <br/>
+while(condition){ <br/>
   statements to be executed if condition is true; <br/>
-}` <br/>
+} <br/>
 <br/>  
 
 - ### for loop
